@@ -13,6 +13,6 @@
   
     
     #### Un peu de documentation:####
-    [Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e "Title")
+    [Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e)
   
   
