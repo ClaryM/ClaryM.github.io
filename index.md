@@ -1,5 +1,18 @@
-Il s'agit d'un test
-#Test numéro 2
-### Test numéro 3
-Kate, qu'est ce que c'est exactement ?  
-Le projet Kate, c'est un projet ouvert, collaboratif, afin de trouver, tous ensemble, un moyen de vivre mieux avec l'autisme.
+# KATE: Kicking Autism Through Entertainment
+  
+  ## Pourquoi ce projet ?
+ Les méthodes d'accompagnement des enfant autistes semblent aujourd'hui faire leur preuve, que ce soit sur l’amélioration du comportement en société ou sur la diminution des troubles. Néanmoins, elles nécessitent toutes l’intervention de personnel qualifié ainsi qu'une grande intervention des parents. Elles représentent donc un investissement important de temps et de moyen pour l’entourage d’un enfant autiste. Des méthodes alternatives devaient alors voir le jour, et c'est dans ce contexte que Kate est née!
+ 
+
+  ## Mais Kate, qu'est ce que c'est ?
+ C'est un projet collaboratif visant à trouver, ensemble, comment vivre plus facilement avec l'autisme. Il s'agit de faire développer à des enfants autistes, grâce à un jeu vidéo, des comportements qu'ils n'auraient pu acquérir par eux même.  
+  Kate est un moyen de rapprocher chercheurs, parents, volontaires à travers sa caractéristique "Open Source" qui permet donc de partager données, recherches bibliographiques mais surtout de donner la possibilité à chacun d'apporter sa contribution au jeu!   
+  
+  ## Les origines de Kate
+  Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, chercheur à l'Institut Pasteur, avec des groupes d'élèves de CentraleSupélec,en 2015: , en 2016: et en 2017:Xavier Tinel, Adil Dinia, Clémence Kopff et Marianne Clary.
+  
+    
+    #### Un peu de documentation:
+    [Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e "Title")
+  
+  
