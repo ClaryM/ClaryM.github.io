@@ -11,5 +11,7 @@ Kate est un moyen de rapprocher chercheurs, parents, volontaires à travers sa c
 Kate a vu le jour en 2015 grâce à la collaboration de Guillaume Dumas, chercheur à l'Institut Pasteur, avec des groupes d'élèves de CentraleSupélec,en 2015: , en 2016: et en 2017:Xavier Tinel, Adil Dinia, Clémence Kopff et Marianne Clary.  
 ### Un peu de documentation:
 [Bibliographie](https://www.zotero.org/groups/421637/asd-hmi-ecp?token=3a5ed22dae55d2fdcedd89bca7ac778e "Title")
+
+![Alt](https://avatars1.githubusercontent.com/u/33521954?s=200&v=4)
   
   
