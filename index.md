@@ -1,4 +1,5 @@
-# ![Alt](https://github.com/ClaryM/ClaryM.github.io/blob/master/logo%20kate.png?raw=true)KATE: Kicking Autism Through Entertainment  
+# ![Alt](https://github.com/ClaryM/ClaryM.github.io/blob/master/logo%20kate.png?raw=true)KATE  
+# Kicking Autism Through Entertainment  
 ## Pourquoi ce projet ?
 Les méthodes d'accompagnement des enfant autistes semblent aujourd'hui faire leur preuve, que ce soit sur l’amélioration du comportement en société ou sur la diminution des troubles. Néanmoins, elles nécessitent toutes l’intervention de personnel qualifié ainsi qu'une grande intervention des parents. Elles représentent donc un investissement important de temps et de moyen pour l’entourage d’un enfant autiste. Des méthodes alternatives devaient alors voir le jour, et c'est dans ce contexte que Kate est née!  
  
